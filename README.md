@@ -2,16 +2,18 @@
 
  
 
-## I'm Jeferson Domingos Martins !
+## Olá! Eu sou o Jeferson Domingos Martins !
 
  
-:desktop_computer: I'm Front-End Developer!
+📖 Estudo JavaScript, HTML, CSS, React, Node.js e outros relacionados a Tecnologia,
 
-:house_with_garden: I’m from Minas Gerais, Brazil.
+:house_with_garden: Moro em Urucânia, Minas Gerais,
 
-👨‍🎓 Information Technology Management student.
+👨‍🎓 Estou cursando gestão da TI,
 
-📖 Certifications in Java Script, HTML and CSS.
+🙏 Meu sonho é me tornar um desenvolvedor full stack
+
+
 
 
 
