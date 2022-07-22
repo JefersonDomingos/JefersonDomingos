@@ -5,7 +5,7 @@
 ## Olá! Eu sou o Jeferson Domingos Martins !
 
  
-📖 Estudo JavaScript, HTML, CSS, React, Node.js e outros relacionados a Tecnologia,
+📖 Estudo desenvolvimento web, Front-end,
 
 :house_with_garden: Moro em Urucânia, Minas Gerais,
 
