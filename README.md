@@ -5,7 +5,7 @@
 ## Olá! Eu sou o Jeferson Domingos Martins !
 
  
-📖 Estudo desenvolvimento web, Front-end,
+📖 Desenvolvedor Front-end,
 
 :house_with_garden: Urucânia, Minas Gerais,
 
