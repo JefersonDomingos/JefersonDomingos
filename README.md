@@ -7,7 +7,7 @@
  
 📖 Estudo desenvolvimento web, Front-end,
 
-:house_with_garden: Moro em Urucânia, Minas Gerais,
+:house_with_garden: Urucânia, Minas Gerais,
 
 👨‍🎓 Estou cursando gestão da TI,
 
@@ -21,4 +21,4 @@
 
 ## About me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-domingos-b68862235/)](https://www.linkedin.com/in/jeferson-domingos-b68862235/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefersondomingos)](https://www.linkedin.com/in/jefersondomingos)
