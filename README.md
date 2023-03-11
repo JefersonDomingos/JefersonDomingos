@@ -9,9 +9,11 @@
 
 :house_with_garden: Urucânia, Minas Gerais,
 
-👨‍🎓 Estou cursando gestão da TI,
+:computer: Minhas tecnologias foco são:  <strong>HTML5, CSS3, JavaScript, ReactJS, MySQL.</strong>
 
-🙏 Meu sonho é me tornar um desenvolvedor full stack
+:bulb: Veja meus repositórios de projetos práticos:  [Vamos lá!](https://github.com/JefersonDomingos?tab=repositories)
+
+🙏 O céu é o limite.
 
 
 
