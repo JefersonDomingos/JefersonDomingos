@@ -2,10 +2,9 @@
 
  
 
-## Olá! Eu sou o Jeferson Domingos Martins !
+## Olá! Eu sou o Jeferson Domingos Martins !          
 
- 
-📖 Desenvolvedor Front-end,
+📖 Desenvolvedor Front-end, 
 
 :house_with_garden: Urucânia, Minas Gerais,
 
